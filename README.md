@@ -15,7 +15,7 @@
 Execute os comandos abaixo para instalar as depêndencias do projeto e execução de testes:
 
 ```sh
-cd vdt-season1-marvel-api
+cd teste-front-vr
 npm i
 npx cypress run
 ```
